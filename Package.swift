@@ -9,7 +9,7 @@
 import PackageDescription
 
 let package = Package(
-    name: "Plot",
+    name: "plot",
     products: [
         .library(
             name: "Plot",
